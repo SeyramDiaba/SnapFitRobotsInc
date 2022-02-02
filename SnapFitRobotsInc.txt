@@ -1,0 +1,13 @@
+git init
+git status
+git add -A
+git status
+git commit -m "Commiting all files in stage area"
+git log
+git add disclaimer.txt
+git commit -m "disclaimer message"
+git log
+git add -A
+git status
+git commit -m "Revise files"
+git log
